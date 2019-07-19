@@ -181,8 +181,9 @@ p {
   margin: 0 auto;
 }
 nav {
-  width: 100%;
-  margin-top: 5%;
+  width: 80%;
+  margin-top: 3%;
+  margin-left: 12%;
 }
 nav a {
   font-size: 2rem;
@@ -208,18 +209,19 @@ footer {
   justify-content: center;
   align-items: center;
 }
-.home .top-section {
-  width: 100%;
+.top-section {
+  width: 75%;
+  margin-left: 10%;
   background: #F6F6F6;
-  height: 100px;
+  height: 23%px;
 }
-.home .top-section h1 {
+.top-section h1 {
   font-size: 3.6rem;
-  width: 100%;
-  padding-left: 35%;
+  width: 60%;
+  padding-left: 40%;
 }
 @media (max-width: 500px) {
-  .home .top-section h1 {
+  .top-section h1 {
     font-size: 3rem;
     padding-left: 23%;
   }
